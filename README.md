@@ -2,7 +2,7 @@
 URL为请求地址  
 data为数据 （JSON格式）
 
-## URL方式
+## 引入方式
 1.下载ZIP包解压到本地
 ```
 <script src="http://url/ajaxclass.js"></script>
